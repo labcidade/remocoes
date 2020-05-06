@@ -1,0 +1,27 @@
+Arquivo	Variável	Descrição
+Mapeamento_Remocoes_04mai20.csv	Identificacao	nome do local/comunidade removido ou ameaçado de remoção
+Mapeamento_Remocoes_04mai20.csv	Data_remocao	data em que aconteceu a remoção
+Mapeamento_Remocoes_04mai20.csv	Situacao	"situação do caso específico, podendo ser “ameaça de remoção”, “remoção
+parcial” ou “remoção total”"
+Mapeamento_Remocoes_04mai20.csv	Descricao	informações detalhadas sobre cada situação
+Mapeamento_Remocoes_04mai20.csv	Cidade	cidade onde está o local/comunidade
+Mapeamento_Remocoes_04mai20.csv	Distrito	"distrito onde está o local/comunidade (se aplica apenas a cidade de São
+Paulo)"
+Mapeamento_Remocoes_04mai20.csv	Regiao	região onde está o local/comunidade
+Mapeamento_Remocoes_04mai20.csv	Fonte	fonte da informação
+Mapeamento_Remocoes_04mai20.csv	Mapeamento_anterior	"indica se a situação descrita já constava na base de dados
+anterior do Observatório de Remoções (2010-2016)"
+Mapeamento_Remocoes_04mai20.csv	Justificativa	justificativa apresentada para a remoção
+Mapeamento_Remocoes_04mai20.csv	Observacao	detalhes sobre a justificativa
+Mapeamento_Remocoes_04mai20.csv	Tipologia	tipologia do local ocupado, se é um “terreno” ou uma “edificação”
+Mapeamento_Remocoes_04mai20.csv	Propriedade	tipo de propriedade, se é “pública” ou “privada”
+Mapeamento_Remocoes_04mai20.csv	Proprietario	informações sobre o proprietário do local
+Mapeamento_Remocoes_04mai20.csv	Familias_ameacadas	total de famílias ameaçadas de remoção
+Mapeamento_Remocoes_04mai20.csv	Familias_removidas	total de famílias removidas
+Mapeamento_Remocoes_04mai20.csv	Movimento	indicação de movimento social ou organização
+Mapeamento_Remocoes_04mai20.csv	Zoneamento	indicação de zoneamento
+Mapeamento_Remocoes_04mai20.csv	Inicio_ocupacao	ano de início da ocupação
+Mapeamento_Remocoes_04mai20.csv	Endereco	endereço do local
+Mapeamento_Remocoes_04mai20.csv	Latitude	Latitude do local
+Mapeamento_Remocoes_04mai20.csv	Longitude	Longitude do local
+Mapeamento_Remocoes_04mai20.csv	Links	informações externas
